@@ -16,7 +16,7 @@
   \_/   \___| \___||_| |_|
 @ Project Name : caseyrhodes tech 
 * Creator      : Caseyrhodes Tech 
-* My Git       : https//github.com/mrfr8nk
+* My Git       : https//github.com/caseyweb
 * Contact      : wa.me/254112192119
 *
 * Release Date : 18 august 2025 12.01 AM
