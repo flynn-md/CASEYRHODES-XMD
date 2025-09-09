@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=CASEYRHODES%20XMD%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
 
-> **`Updated` CASEYRHODES XMD with Latest Features**
+> **`Updated` SHERIF XMD with Latest Features**
 
-## CONTACT CASEYRHODES TECH
+## DEPUTY SHERIF
   
 <a href="https://wa.me/254112192119"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a href="https://chat.whatsapp.com/GbpVWoHH0XLHOHJsYLtbjH"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
@@ -12,7 +12,7 @@
 </p>
 
 
-# CASEYRHODES BOTZ INC.❤️
+# SHERIF BOTZ INC.❤️
 
 [![Sponsor Caseyrhodes](https://img.shields.io/badge/Sponsor-caseyweb-important)](https://github.com/sponsors/caseyweb)
 
