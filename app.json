@@ -10,13 +10,13 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "Caseyrhodes~ntpGhZAY#aa-NLteE3GmLyNIaWKKREsa9qqVMdp7FyDpYz5HNGmM"
     },  
     
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "CASEYRHODES-XMD"
+      "value": "DEPUTY SHERIF-XMD"
     }, 
       
     "PREFIX": {
@@ -27,21 +27,21 @@
     
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
-      "required": false,
-      "value": "public"
+      "required": true,
+      "value": "private"
       
     },
 
      "ANTI_DELETE": {
       "description": "set true for show deleted messages.",
-      "required": false,
+      "required": true,
       "value": "true"  
     },
     
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": false,
-      "value": "false"  
+      "value": "true"  
     },    
    
     "AUTO_REPLY": {
@@ -78,27 +78,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY CASEYRHODES TECH 🇰🇪*"
+      "value": "*SEEN YOUR STATUS BY SHERIF TECH 🇰🇪*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
-      "required": false,
-      "value": "CASEYRHODES-TECH"
+      "required": true,
+      "value": "SHERIF-TECH"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "required": false,
-      "value": "254112192119"
+      "required": true,
+      "value": "254778691255"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
-      "required": false,
-      "value": "CASEYRHODES-XMD"
+      "required": true,
+      "value": "DEPUTY SHERIF"
 
       }, 
 
@@ -112,7 +112,7 @@
      "ANTI_LINK_KICK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "false"
+      "value": "true"
       
     },
     
@@ -137,18 +137,18 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄᴀsᴇʏʀʜᴏᴅᴇs ᴛᴇᴄʜ*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ DEPUTY SHERIF ᴛᴇᴄʜ*"
     },
 
       "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     
     "AUTO_RECORDING": {
       "description": "Make it true if you want auto recoding.",
-      "required": false,
+      "required": true,
       "value": "true"
     },
 
@@ -179,25 +179,25 @@
     
     "ANTI_DEL_PATH": {
       "description": "change it to -same- if you want to resend deleted message in same chat othwise inbox",
-      "required": false,
+      "required": true,
       "value": "inbox"
     }, 
 
     "ADMIN_EVENTS": {
       "description": "make it true if want know who promote or demote a member .",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
 
     "WELCOME": {
       "description": "make it true if want goodbye and welcome message in groups.",
       "required": false,
-      "value": "true"
+      "value": "false"
      },
     "ANTICALL": {
       "description": "Make it true if you want bot to block incoming calls.",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "READ_MESSAGE": {
       "description": "Make it true if you want bot read your all sms just now.",
