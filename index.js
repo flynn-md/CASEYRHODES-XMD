@@ -15,10 +15,10 @@
   | |   / _ \ / __|| '_ \ 
   | |  |  __/| (__ | | | |
   \_/   \___| \___||_| |_|
-@ Project Name : caseyrhodes tech 
-* Creator      : Caseyrhodes Tech 
+@ Project Name : DEPUTY SHERIF tech 
+* Creator      : SHERIF Tech 
 * My Git       : https//github.com/mrfr8nk
-* Contact      : wa.me/254112192119
+* Contact      : wa.me/254753817025
 *
 * Release Date : 18 august 2025 12.01 AM
 */
