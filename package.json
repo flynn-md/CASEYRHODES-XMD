@@ -1,7 +1,7 @@
 {
-  "name": "CASEYRHODES-MD",
+  "name": "DEPUTY SHERIF ",
   "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By Caseyrhodes",
+  "description": "A WhatsApp Bot Created By SHERIF",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name CASEYRHODES-XMD",
